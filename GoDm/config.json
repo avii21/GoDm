@@ -1,0 +1,37 @@
+{
+  "Modes": {
+    "Config": {
+      "Interval": 0,
+      "CCManager": false,
+      "MaxRoutines": 300,
+      "SolveCaptcha": false,
+      "CaptchaRetry": 2,
+      "RateLimit": true
+    },
+    "Net": {
+      "JA3": "772,4865-4866-49195-49199-49196-49200-52393-49171-49172-156-157-47-53,35-51-13-17513-45-10-65281-0-11-27-16-23-18-5-43,29-23-24,0",
+      "Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+      "Proxy": "",
+      "WebKit": "537.36",
+      "Redirect": false,
+      "TimeOut": 60
+    },
+    "Discord": {
+      "Ver": 2.2,
+      "CapApi": ["", ""],
+      "Presence": ["online", "dnd", "idle", "offline", "unkown"],
+      "Message": [
+        {
+          "Title": "# Hello!",
+          "Body": "> mind joining my server!",
+          "Link": "> discord.gg/"
+        },
+        {
+          "Title": "# Hey!",
+          "Body": "> This Message Was sent using",
+          "Link": "> https://github.com/yaboipy/godm"
+        }
+      ]
+    }
+  }
+}
